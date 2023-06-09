@@ -1,0 +1,5 @@
+# Project exclude paths
+/castava-api-proxy/target/
+/castava-api-spigot/target/
+/castava-core/target/
+/out/

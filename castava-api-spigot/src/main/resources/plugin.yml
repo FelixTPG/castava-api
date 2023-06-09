@@ -1,0 +1,4 @@
+name: CastavaCore
+version: '${project.version}'
+main: net.castava.api.spigot.CastavaApiSpigot
+author: FelixTPG

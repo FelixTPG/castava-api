@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="castava-api-spigot">
+    <output-path>$PROJECT_DIR$/out/artifacts/castava_api_spigot</output-path>
+    <root id="archive" name="castava-api-spigot.jar">
+      <element id="module-output" name="castava-core" />
+      <element id="module-output" name="castava-api-spigot" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/3.12.12/mongo-java-driver-3.12.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
